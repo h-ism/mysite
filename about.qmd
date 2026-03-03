@@ -1,5 +1,12 @@
 ---
-title: "About"
+title: "About Me"
 ---
+My research focuses on political parties, legislative behavior, and Japanese politics. It has been published in Electoral Studies, Legislative Studies Quarterly, Journal of Election, Public Opinion and Parties, and Social Science Japan Journal.
 
-About this site
+# CV
+
+CV (https://ishimahideo.github.io/cv.pdf)
+
+# Personal
+
+I'm enthusiastic about watching sports, especially baseball and basketball. 

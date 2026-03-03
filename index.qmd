@@ -6,7 +6,7 @@ This is Hideo Ishima's website.
 
 ## About Me
 
-Hideo ISHIMA is an associate professor at Kyoto University. His research focuses on political parties, legislative behavior, and Japanese politics. It has been published in Electoral Studies, Legislative Studies Quarterly, Journal of Election, Public Opinion and Parties, and Social Science Japan Journal.
+Hideo ISHIMA is an associate professor of political science at Kyoto University. 
 
 I'm on leave for the academic year 2025-26, visiting at the University of Michigan.
 
@@ -14,4 +14,4 @@ Address: Graduate School of Law, Kyoto University, Yoshida-Honmachi, Sakyo-ku, K
 
 mail:  ishima.hideo.3r [at] kyoto-u.ac.jp
 
-Google Scholar Profile<https://scholar.google.co.jp/citations?user=8bQKmPMAAAAJ&hl=en>
+[Google Scholar Profile](https://scholar.google.co.jp/citations?user=8bQKmPMAAAAJ&hl=en) / [ResearchGate Profile](https://www.researchgate.net/profile/Hideo-Ishima) / [ORCID Profile](https://orcid.org/0000-0002-8777-1902) 
