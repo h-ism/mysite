@@ -9,6 +9,8 @@ website:
         text: Home
       - about.qmd
       - research.qmd
+      - teaching.qmd
+      - personal.qmd
 
 format:
   html:

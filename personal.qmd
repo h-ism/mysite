@@ -1,0 +1,9 @@
+---
+title: "Personal"
+---
+
+# Personal
+I'm originally from Nara, Japan. 
+I'm enthusiastic about watching sports, especially baseball and basketball. 
+
+![Hobby](pictures/hobby.jpeg)
