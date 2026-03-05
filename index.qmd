@@ -2,7 +2,7 @@
 title: "Hideo Ishima"
 ---
 
-![-](pictures/profile.jpg){.float-end .rounded width=200} 
+![](pictures/profile.jpg){.float-end .rounded width=200} 
 
 Hideo ISHIMA is an associate professor of political science at Kyoto University. 
 
