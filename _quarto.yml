@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Hideo Ishima"
+  site-url: "https://h-ism.github.io/"
   navbar:
     left:
       - href: index.qmd
